@@ -1,4 +1,4 @@
-# teach-people-code
+# ICS4U-Code-Teach
 group: Ian McAllister, Noah Jewett, Denis Menshikov
 
 Top 3:
